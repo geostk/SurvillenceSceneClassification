@@ -1,0 +1,16 @@
+/b/Building
+/c/Cafeteria
+/c/Classroom
+/c/Conference_room
+/d/Downtown
+/d/Driveway
+/h/Highway_Road
+/h/Hospital_room
+/o/Office
+/p/Park
+/p/Parking
+/p/Parking_Underground
+/p/Platform
+/s/ShoppingMall
+/s/Street
+/s/Supermarket
